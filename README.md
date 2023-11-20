@@ -1,4 +1,4 @@
-# my-ideas : 
+####### my-ideas : 
 my idea : to collect data from apple click rate by some 100 people and try predicting what force they click the button in apple watch this force that we prediction can tell us how hard the motherboard or internal system can tolerate , this can increase apple watch series price  or our product if say im working for apple !!😎
 this is also called tiny ml
 chatgpt : 
